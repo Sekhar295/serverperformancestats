@@ -10,3 +10,6 @@ chmod +x server-stats.sh     ## to give permissions to execute the bash script f
 
 
 ./server-stats.sh    ## to run the script
+
+
+This project is an example from roadmap.sh https://roadmap.sh/projects/server-stats
